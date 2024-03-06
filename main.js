@@ -14,7 +14,7 @@ $(document).ready(function() {
     
     tool.onMouseDown=function(event) {
         var c=Shape.Circle(event.point, 20);
-        c.fillColor='green'
+        c.fillColor='red'
     }
     console.log('main.js loaded');
 });
