@@ -1,10 +1,6 @@
 "use strict";
 
-var _require = require("underscore"),
-    object = _require.object;
-
 // средство es6: блок "левых"  объявлений
-
 
 var sentences = [{ subject: "JavaScript", verb: "is", object: "great" }, { subject: "Elephants", verb: "are", object: "large" }];
 // средство es6: деструктуризация объекта
