@@ -1,7 +1,5 @@
 "use strict";
 
-const { object } = require("underscore");
-
 // средство es6: блок "левых"  объявлений
 const sentences = [
   { subject: "JavaScript", verb: "is", object: "great" },

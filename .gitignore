@@ -7,3 +7,6 @@ node_modules
 # Временные файлы
 *.tmp
 *~
+# Файлы ES5
+dist
+public/dist
